@@ -14,4 +14,3 @@ print(8 > 2)      # Lebih besar
 print(10 < 20)    # Lebih kecil
 print(17 >= 17)   # Lebih besar sama dengan
 print(14 <= 14)   #Lebih kecil sama dengan
-
