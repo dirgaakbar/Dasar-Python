@@ -1,4 +1,4 @@
-# VARIABEL DALAM PYTHON
+# VARIABEL DALAM PYTHON ADALAH MENYIMPAN DATA
 nama = 'Chairil'      # ini adalah string atau teks
 umur = 21             # ini adalah int atau angka bulat
 tinggi = 165.0        # ini adalah float atau angka desimal
