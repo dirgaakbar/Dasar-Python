@@ -6,7 +6,7 @@ print(7 / 3)   # Pembagian float
 print(6 // 3)  # Pembagian int
 print(5 % 2)   # Sisa bagi Modulus
 print(2 ** 3)  # Perpangkatan
-print()
+
 # OPERATOR BOOLEAN
 print(10 == 10)   # Sama dengan
 print(15 != 12)   # Tidak sama dengan
