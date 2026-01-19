@@ -5,8 +5,9 @@ buah[1] = 'Jeruk' # Mengubah isi list
 print(buah[0]) # Menampilkan Apel
 print(buah[1])
 
-buah.append('anggur') # Menambahkan data di list terakhir
-buah.insert(1, 'nanas') # Menambahkan data di posisi tertentu
+buah.append('anggur') # Menambahkan di list terakhir
+buah.insert(1, 'nanas') # Menambahkan di posisi tertentu
 
 print(buah)
-print(len(buah))
+# buah.remove('Apel') # Menghapus nilai dari list
+# buah.pop(0) # Menghapus berdasarkan index dan bisa dikembalikan datannya
