@@ -14,4 +14,5 @@ elif operator == '*':
 elif operator == '/':
     print(angka1 / angka2)
 
-
+else:
+	print('invalid')
