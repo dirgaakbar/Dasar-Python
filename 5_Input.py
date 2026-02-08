@@ -8,4 +8,3 @@ print(f'Kamu berumur {umur} tahun')
 
 tinggi = float(input('Masukkan tinggi anda:   ')) # float untuk angka desima
 print(f'tinggi mu {tinggi} cm')
-
