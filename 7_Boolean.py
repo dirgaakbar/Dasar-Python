@@ -10,3 +10,4 @@ if sekarang_malam:
       print('Waktunya tidur')
 else:
       print('Belum saatnya tidur')
+
